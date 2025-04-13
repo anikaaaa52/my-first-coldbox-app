@@ -1,0 +1,8 @@
+{
+    "name":"myfirstapp3",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
